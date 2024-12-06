@@ -1,4 +1,4 @@
-# Official Course Repo for UVic SENG321: Requirements Engineering - Spring 2024
+# Official Course Repo for UVic SENG321: Requirements Engineering - Spring 2025
 
 
 # Schedule and Topics
