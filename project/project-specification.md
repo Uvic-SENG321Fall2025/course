@@ -65,7 +65,7 @@ As a client team, you will be asked to produce an RFP, which requires you to pre
 
 Note: you will not be implementing the solution; it will be another student group, the Developer group, that will design the solution. In the process, their designs and solution might be different from what you envision, and that is ok. 
 
-Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md) for the RFP, which includes the template to use. 
+Here are the [guidelines]([https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md](https://github.com/Uvic-SENG321Spring2025/course/tree/main/project/Request-for-Proposal)) for the RFP, which includes the template to use. 
 
 ### Requirements Document (RD)
 More information will be provided here timely. For now, please see the [template](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) for the RD. 
