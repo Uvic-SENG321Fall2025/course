@@ -1,9 +1,9 @@
 # Request for Proposal (RFP) Instructions
 ## RFP Overview
-Your first task is to find a real organization, introduce yourself, and identify a problem in the company that can benefit from a software solution. 
-You will conduct as many interviews as needed to become familiar with the organization’s system and problem.
-Subsequently, you will act as representatives of this organization for the duration of this project. Your first deliverable is the request for proposal (RFP).
-Remember the **RFP is due January 21 at 11pm!**
+Your first task as Clients, is to brainstorm a project idea for a solution you will want to see designed and prototyped by another (Developer) Team in the course. As described in the Project specification, ... 
+
+Subsequently, you will be interviewed by the Developer Team, and involved in providing feedback throughout an iterative design process throughout the term. Your first deliverable is the request for proposal (RFP).
+Remember the **RFP is due on Sunday, on Week 2 at 11pm!**
 
 ## Template
 The remainder of this document serves as template for you and your team **acting as clients** to use to create your RFP. We expect the RFP to be roughly 3-4 letter-size (a4) pages.
