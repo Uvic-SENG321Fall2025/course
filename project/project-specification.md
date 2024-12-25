@@ -16,7 +16,8 @@
 The requirements documentation in a project is a most powerful tool to document the knowledge, expectations and features of a software system. When managed as a living document, it records the understanding of the needs, the business and user requirements, features and non-functional requirements. It is also a record of decisions made through negotiations between clients and developers of the system. For this project you will be working in a 6-8 student project team and play both roles of a **Client** and a **Developer** in **two different projects**. The requirements documentation is developed incrementally and iteratively thoughout the term project and it is the ultimate project deliverable is the course. Clarification: Your team is the same (but play different roles) in the two projects. 
 
 The following diagram covers the main activities for both roles of **Client** and **Developer** across the iterations. 
-![Diagram of Project Overview](https://github.com/Uvic-SENG321Spring2024/course/assets/17919332/814b8b5d-3b6e-46c5-9cae-6b5394f2ff65)
+
+<img width="1155" alt="Project methodology" src="https://github.com/user-attachments/assets/a254596b-13f6-4528-8fb4-18635206e53f" />
 
 The project follows an agile methodology and iteratively develops a number of artifacts such as a **Request for Proposal (RFP)**, **Requirements Documemnt (RD)**, Prototypes and in-class Presentations. **All your project work, must be uploaded to your GitHub repo by the due dates given. See below for instructions on each deliverable, due dates, and instructions on how to use GitHub.**
 
