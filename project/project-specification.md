@@ -89,7 +89,7 @@ More information will be provided here timely.
 | Team Assessment 1     | Submit survey for team assessment.                                               | Jan 20- 11pm        | reflect on both roles |
 | Requirements Document | Include vision and scope section                                                 | Feb 2- 11pm         | designers             |
 | Team Assessment 2     | Submit survey for team assessment.                                               | Feb 3- 11pm         | reflect on both roles |
-| Requirements Document | Formally propose system diagrams,  user stories, NFRs, acceptance tests          | Feb 17- 11pm        | designers             |
+| Requirements Document | Formally propose system diagrams,  user stories, NFRs, acceptance tests          | Feb 16- 11pm        | designers             |
 | Team Assessment 3     | Submit survey for team assessment                                                | Feb 24- 11pm        | reflect on both roles |
 | Prototypes            | Submit prototypes based on previously  proposed requirements and client feedback | Mar 12- in class         | designers             |
 | Team Assessment 4     | Submit survey for team assessment                                                | Mar 17- 11pm        | reflect on both roles |
