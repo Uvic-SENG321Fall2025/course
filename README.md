@@ -3,7 +3,7 @@
 
 # Schedule and Topics
 
-See the [Schedule here](https://docs.google.com/document/d/1lIAfkCLYb_OpMs9Pn2eJzIaVxkIIcArO9WCxwbiTwMM/edit?usp=sharing) for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource** for the course, please bookmark it! Note that all info is tentative, only the current week info to be finaized (or so we aim for!)
+See the [Schedule here](https://docs.google.com/document/d/1lIAfkCLYb_OpMs9Pn2eJzIaVxkIIcArO9WCxwbiTwMM/edit?usp=sharing) for the current lecture and Lab topics, Project activities, deliverables and due dates. You will also find lab and lecture slides attached to this schedule. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource** for the course, please bookmark it! Note that all info is tentative, only the current week info to be finaized (or so we aim for!)
 
 We aim to provide provide detailed information about all course components here. As such, please inspect all GH resources before asking your TA or instructor about project details, deadlines, or required readings or Quizzes. We will not reply to any questions (email or Teams) if the information is already available in GH. Thank you for your understanding. 
 
