@@ -85,10 +85,10 @@ More information will be provided here timely.
 | **Deliverable**       | **Description**                                                                  | **Due Date**       | **Role*               |
 |-----------------------|----------------------------------------------------------------------------------|--------------------|-----------------------|
 | Define the Client organization and Problem     | Brainstorm problem domain, scope, details, and define Client organization.            | Jan 9- Class time        | clients               |
-| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 21- 11pm        | clients               |
-| [Team Assessment](https://github.com/Uvic-SENG321Spring2024/course/tree/main/project/team-assessment) 1     | Submit survey for team assessment.                                               | Jan 22- 11pm        | reflect on both roles |
+| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 19- 11pm        | clients               |
+| [Team Assessment](https://github.com/Uvic-SENG321Spring2024/course/tree/main/project/team-assessment) 1     | Submit survey for team assessment.                                               | Jan 20- 11pm        | reflect on both roles |
 | Requirements Document | Include vision and scope section                                                 | Feb 4- 11pm         | designers             |
-| Team Assessment 2     | Submit survey for team assessment.                                               | Feb 5- 11pm         | reflect on both roles |
+| Team Assessment 2     | Submit survey for team assessment.                                               | Feb 3- 11pm         | reflect on both roles |
 | Requirements Document | Formally propose system diagrams,  user stories, NFRs, acceptance tests          | Feb 17- 11pm        | designers             |
 | Team Assessment 3     | Submit survey for team assessment                                                | Feb 24- 11pm        | reflect on both roles |
 | Prototypes            | Submit prototypes based on previously  proposed requirements and client feedback | Mar 12- in class         | designers             |
