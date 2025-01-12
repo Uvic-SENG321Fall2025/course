@@ -25,7 +25,8 @@ What is the need for improvement in the client organization?
 
 ## 2.0 Project Objectives
 Specify the objectives of your project in detail, including the business objectives and success metrics. 
-Hint: see Chapter 5, section 1.3 for examples of Business Objectives and Success Metrics. 
+
+**Hint**: see Chapter 5, section 1.3 for examples of Business Objectives and Success Metrics. 
 
 ## 3.0 Current System(s)
 Current system(s) at the client organization (if any).
