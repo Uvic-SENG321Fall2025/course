@@ -46,6 +46,9 @@ Broad overview to be derived from course schedule
 ## 8.0 Project team
 Project team member's info and roles. Please include contact information. 
 
-## 9.0 Glossary of terms
+## 9.0 Reflection on the Use of AI
+Reflect on the ideas you came up with organically towards this project versus the ideas generative AI tools like ChatGPT may have given you. For example, did AI tools correctly anticipate your intended end users? Explain here which ideas of your own you kept and which ideas you borrowed from AI tools. Reflect on why you made these choices, and the benefits and shortcomings of using AI towards this RFP. 
+
+## 10.0 Glossary of terms
 Project jargon, or jargon from client organization should be included here so that this document is readable 
 by those external to the project.
