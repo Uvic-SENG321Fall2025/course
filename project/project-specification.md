@@ -68,7 +68,7 @@ Note: you will not be implementing the solution; it will be another student grou
 Here are the [guidelines]([https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md](https://github.com/Uvic-SENG321Spring2025/course/tree/main/project/Request-for-Proposal)) for the RFP, which includes the template to use. 
 
 ### Requirements Document (RD)
-More information will be provided here timely. For now, please see the [template](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) for the RD. 
+More information will be provided here timely. For now, please see the [template](https://github.com/Uvic-SENG321Spring2025/course/blob/main/project/Requirements%20Document/Requirements%20Document%20template.md) for the RD. 
 
 ### Prototyping Guidelines
 More information will be provided here timely.
@@ -87,7 +87,7 @@ More information will be provided here timely.
 | Define the Client organization and Problem     | Brainstorm problem domain, scope, details, and define Client organization.            | Jan 9- Class time        | clients               |
 | [RFP](https://github.com/Uvic-SENG321Spring2025/course/tree/main/project/Request-for-Proposal)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 19- 11pm        | clients               |
 | Team Assessment 1     | Submit survey for team assessment.                                               | Jan 20- 11pm        | reflect on both roles |
-| Requirements Document | Include vision and scope section                                                 | Feb 2- 11pm         | designers             |
+| Requirements Document| Include vision and scope section                                                 | Feb 2- 11pm         | designers             |
 | Team Assessment 2     | Submit survey for team assessment.                                               | Feb 3- 11pm         | reflect on both roles |
 | Requirements Document | Formally propose system diagrams,  user stories, NFRs, acceptance tests          | Feb 16- 11pm        | designers             |
 | Team Assessment 3     | Submit survey for team assessment                                                | Feb 24- 11pm        | reflect on both roles |
