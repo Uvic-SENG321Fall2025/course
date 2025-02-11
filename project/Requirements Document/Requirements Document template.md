@@ -147,7 +147,7 @@ You may use this requirements document template to get your requirements documen
 - 1 swimlane diagram for each use case
 
 10. **Reflection on the Use of AI**
-**Please provide two submissions for this deliverable. Firstly, provide the version of your RD that you did not use AI for. Secondly, provide the version of your RD that AI helped you generate. The version of your RD that relies on AI should contain a reflection on the use of AI based on the following questions:** 
+**For Requirements Document, iteration2: you are only required to use AI tools to assist you with use cases and user stories for this deliverable. This entails that your reflection will only cover use cases and user stories, and how AI helped (or did not help) with those. For each use case and user story you write with AI, please provide the link to your chat. This is in lieu of submitting two documents thus only one submission is required for RD iteration2.**
 
 - List all the ways that your team used generative AI in this deliverable. Please be specific. (E.g. to identify potential user classes). 
 
