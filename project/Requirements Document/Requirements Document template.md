@@ -160,7 +160,12 @@ You may use this requirements document template to get your requirements documen
 
 - What are some areas where AI did not help you in writing these sections of the requirements document? Be specific about those areas. 
 
-- What did you do when AI’s content differed from your own content? How did you decide what content to keep? Give examples of the differences here. 
+- What did you do when AI’s content differed from your own content? How did you decide what content to keep? Give examples of the differences here.
+      - Example
+  | Human Generated User Stories | AI Response (don’t prompt the AI with user stories you wrote) | Evaluation (Hallucination, Good - keeping, Bad - ignoring) |
+|-----------------------------|---------------------------------------------------------------|------------------------------------------------------------|
+| - As a donor, I want to receive a personalized thank-you email so that I feel appreciated.  <br> - As an organization, I want to track donor engagement so that I can improve retention.  <br> - As a fundraiser, I want to create visually appealing campaign pages to attract more donors. | - The AI suggested an automated thank-you email system that includes donor-specific impact reports.  <br> - The AI suggested using sentiment analysis on donor emails to assess engagement levels.  <br> - The AI recommended integrating AI-generated imagery and auto-summarized impact statements.  <br> - The AI also suggested a social media shoutout for every donation.  <br> - The AI suggested a blockchain-based donation tracking system. | - **Good - keeping:** The idea of donor-specific impact reports and sentiment analysis for engagement tracking.  <br> - **Good - keeping:** AI-generated imagery and auto-summarized impact statements to enhance donor engagement.  <br> - **Bad - ignoring:** Social media shoutouts for every donation, as it might not align with donor preferences.  <br> - **Hallucination:** Blockchain-based donation tracking system—out of context for our use case. |
+
 
 - How confident were you in generative AI’s output? 
 
