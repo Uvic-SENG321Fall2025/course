@@ -161,6 +161,7 @@ You may use this requirements document template to get your requirements documen
 - What are some areas where AI did not help you in writing these sections of the requirements document? Be specific about those areas. 
 
 - What did you do when AI’s content differed from your own content? How did you decide what content to keep? Give examples of the differences here.
+     - The following is an example.
 
 | Human Generated User Stories | AI-Generated User Stories | Evaluation (Hallucination, Good - keeping, Bad - ignoring) |
 |-----------------------------|--------------------------|------------------------------------------------------------|
