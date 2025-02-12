@@ -102,7 +102,7 @@ You may use this requirements document template to get your requirements documen
 
           This is the use case specification. For each Use Case, list the dialog elements in the use case that elaborates or is related to this feature or one of its functional requirements, i.e. sequences of user actions and system responses that stimulate the behavior defined for this feature/functional requirement.
          
-| ID and Name | UC-2 View Recipe (Human Generated) | AI Generated | Final Use Case |
+| ID and Name | UC-2 View Recipe (Human Generated) | AI Generated (include link(s) to chat(s)) | Final Use Case |
 | ----------- | ---------------- | ------------ | -------------- |
 | Created By: | Nolan, Justin | | Nolan, Justin |
 | Date Created: | 02/14/24 | | 02/14/24 |
@@ -192,13 +192,5 @@ You may use this requirements document template to get your requirements documen
 
 
 
-
-- How confident were you in generative AI’s output? 
-
-- In your observations, what made prompts  effective and what made prompts ineffective? How did you decide that a prompt was effective, or not? Please give examples of your prompts for both good and bad prompts, and your perceived good and bad responses from the AI model. 
-
-- If you had to repeatedly prompt the AI model, why did you keep updating your prompt? What changes were you making to your prompts? How did you know when you were satisfied with the output? Give examples of conversations requiring repeated or changing prompts. 
-
-- Did you perceive that the AI model gained and maintained contextual understanding during the conversation? E.g. did you keep having to remind the model of something introduced early on? What context did it remember and what context did it forget?
 
 11. **Appendix**   
