@@ -164,14 +164,16 @@ User stories:
 
     Specify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
-9. **Analysis Models (Data Flow Diagrams, Sequence Diagram, Storyboard, Swimlane diagram)**
-- 1 level 0 data flow diagram
-- 1 level 1 data flow diagram
-- at least 2 level 2 data flow diagrams
-- at least 2 dialog maps
-- storyboard for features/functional requirements
-- system level sequence diagram for each use case
-- 1 swimlane diagram for each use case
+9. **Analysis Models (Data Flow Diagrams, Sequence Diagrams, etc.)**
+
+Context level DFD (minimum 1)
+DFD level 1 (minimum 1)
+DFD level 2 (where applicable)
+
+Dialog Maps for 2 main features (select features where you did not also write a detailed use case)
+
+Sequence Diagram (minimum 1)
+
 
 
 
