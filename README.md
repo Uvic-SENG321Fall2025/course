@@ -16,8 +16,8 @@ University and department policies on professional conduct and integrity are app
 ## Project
 There is a large project in this course, see [the project page](https://github.com/Uvic-SENG321Fall2025/course/tree/main/project) for a description of its specification, deliverables and timelines. 
 
-## Quizzes
-There will be seven Quizzes (see Schedule) and best six out of the seven will be counted towards the Quizzes grade, conducted on Brightspace so please bring something that can connect to the internet on those days.
+## Midterm
+There will be one Midterm (see Schedule), tenatively scheduled for Nov 5, 2025
 
 ## Class Participation
 Class participation is worth 10% of your total marks. Please see the [criteria](https://github.com/Uvic-SENG321Fall2025/course/blob/main/Assessment%20of%20Class%20Participation.md) for the breakdown of class participation.
