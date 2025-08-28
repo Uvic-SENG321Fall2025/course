@@ -79,19 +79,4 @@ More information will be provided here timely.
 ### Team Assessments
 More information will be provided here timely.
  
-## Project Due Dates
-**The current due dates are tentative and subject to change** 
 
-| **Deliverable**       | **Description**                                                                  | **Due Date**       | **Role*               |
-|-----------------------|----------------------------------------------------------------------------------|--------------------|-----------------------|
-| Define the Client organization and Problem     | Brainstorm problem domain, scope, details, and define Client organization.            | Jan 9- Class time        | clients               |
-| [RFP](https://github.com/Uvic-SENG321Fall2025/course/tree/main/project/Request-for-Proposal)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 19- 11pm        | clients               |
-| Team Assessment 1     | Submit survey for team assessment.                                               | Jan 20- 11pm        | reflect on both roles |
-| [Requirements Document](https://github.com/Uvic-SENG321Fall2025/course/tree/main/project/Requirements%20Document)| Include vision and scope sections (Sections 1-4 in the RD template)                                                | Feb 2- 11pm         | designers             |
-| Team Assessment 2     | Submit survey for team assessment.                                               | Feb 3- 11pm         | reflect on both roles |
-| Requirements Document  | Formally propose functional requirements, system diagrams,  user stories, NFRs, acceptance tests  (Sections 5 and beyond in the RD template)           | Feb 16- 11pm        | designers             |
-| Team Assessment 3     | Submit survey for team assessment                                                | Feb 24- 11pm        | reflect on both roles |
-| Prototypes            | Submit prototypes based on previously  proposed requirements and client feedback | Mar 12- in class         | designers             |
-| Team Assessment 4     | Submit survey for team assessment                                                | Mar 17- 11pm        | reflect on both roles |
-| Final presentation    | Project presentations which include  a demo of final prototypes.                 | April 1,2,3 | designers             |
-| Team Assessment 5     | Submit survey for team assessment                                                | Apr 6- 11pm         | reflect on both roles |
